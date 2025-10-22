@@ -1,0 +1,40 @@
+KO	name	gene	pathway
+K00496	alkane 1-monooxygenase [EC:1.14.15.3]	alkM	alkane
+K00530	rubredoxin---NAD(P)+ reductase [EC:1.18.1.4]	nroR	alkane
+K05297	rubredoxin---NAD+ reductase [EC:1.18.1.1]	rubB	alkane
+K21738	rubredoxin---NAD+ reductase [EC:1.18.1.1]	alkT	alkane
+K22567	rubredoxin---NAD+ reductase [EC:1.18.1.1]	nroR	alkane
+K13951	alcohol dehydrogenase 1/7 [EC:1.1.1.1]	ADH1	alkane
+K13980	alcohol dehydrogenase 4 [EC:1.1.1.1]	ADH4	alkane
+K00121	S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	adhC	alkane
+K13952	alcohol dehydrogenase 6 [EC:1.1.1.1]	ADH6	alkane
+K04072	acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]	adhE	alkane
+K13953	alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	adhP	alkane
+K13954	alcohol dehydrogenase [EC:1.1.1.1]	yiaY	alkane
+K18857	alcohol dehydrogenase class-P [EC:1.1.1.1]	ADH1	alkane
+K00001	alcohol dehydrogenase [EC:1.1.1.1]	adh	alkane
+K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	exaA	alkane
+K13979	alcohol dehydrogenase (NADP+) [EC:1.1.1.2]	ADH	alkane
+K00128	aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	ALDH	alkane
+K00138	aldehyde dehydrogenase [EC:1.2.1.-]	ALDH	alkane
+K14085	aldehyde dehydrogenase family 7 member A1 [EC:1.2.1.31 1.2.1.8 1.2.1.3]	ALDH7A1	alkane
+K00149	aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]	ALDH9A1	alkane
+K14338	cytochrome P450 / NADPH-cytochrome P450 reductase [EC:1.14.14.1 1.6.2.4]	cypDE	alkane
+K07422	long-chain fatty acid omega-monooxygenase [EC:1.14.14.80]	CYP2U1	alkane
+K07425	long-chain fatty acid omega-monooxygenase [EC:1.14.14.80]	CYP4A	alkane
+K15401	long-chain fatty acid omega-monooxygenase [EC:1.14.14.80]	CYP86A1	alkane
+K20495	long-chain fatty acid omega-monooxygenase [EC:1.14.14.80]	CYP704B1	alkane
+K22887	long-chain fatty acid omega-monooxygenase [EC:1.14.14.80]	CYP52M1	alkane
+K03782	catalase-peroxidase [EC:1.11.1.21]	katG	other
+K20938	long-chain alkane monooxygenase [EC:1.14.14.28]	ladA	alkane
+K00138	aldehyde dehydrogenase [EC:1.2.1.-]	ALDH	alkane
+K03928	carboxylesterase [EC:3.1.1.1] (db=kegg)	CES	ketone
+K01895	acetyl-CoA synthetase [EC:6.2.1.1] (db=kegg)	ACS	ketone
+K21747	AraC family transcriptional regulator, alkane utilization regulator	araC	alkane
+K10215	monooxygenase [EC:1.14.13.-]	FMO	ketone
+
+### Old
+K12437	polyketide synthase 13	pks13	biofilm
+K27306	mycolic acid reductase	cmrA	biofilm
+K18851	diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85 [EC:2.3.1.20 2.3.1.122 2.3.1.-]	fbp	biofilm
+K27308	trehalose dimycolate hydrolase 	tdmh	biofilm

@@ -1,0 +1,594 @@
+accession	compound	pathway	gene	enzyme	microorganism	db
+00016	Plastics	PU	pueA	Polyurethane esterase A	Pseudomonas chlororaphis	plasticdb
+00029	Plastics	P(3HB-co-3MP)/PHA	phaZ	PHA depolymerase	Schlegelella thermodepolymerans	plasticdb
+00034	Plastics	PBS/PBSA	cut	Cutinase	Aspergillus oryzae	plasticdb
+00052	Plastics	PBSA	lip	Lipase	Pseudomonas aeruginosa	plasticdb
+00056	Plastics	PBSA	lip	Lipase	Burkholderia cepacia	plasticdb
+00061	Plastics	PE	alkB	Alkane hydroxylase	Pseudomonas sp.	plasticdb
+00064	Plastics	PHA	phaZ	MCL PHA depolymerase	Bdellovibrio bacteriovorus	plasticdb
+00067	Plastics	PHB/PHA	phaZ	PHB depolymerase	Streptomyces ascomycinicus	plasticdb
+00068	Plastics	PBS-Blend/PBSA-Blend	cut	Cutinase	Pseudozyma antarctica	plasticdb
+00069	Plastics	PCL	chi	Chitinase	Streptomyces thermoviolaceus	plasticdb
+00070	Plastics	PHB/PHA	phaZ	3HB oligomer hydrolase	Paracoccus denitrificans	plasticdb
+00073	Plastics	PET	cut	Cutinase	Thermobifida fusca	plasticdb
+00076	Plastics	PET/PHA/PBAT/PBS/PBSA/PCL/PHB/PLA	cut	Cutinase	Saccharomonospora viridis	plasticdb
+00083	Plastics	PET	PETase	PETase	Ideonella sakaiensis	plasticdb
+00084	Plastics	PET	MHETase	MHETase	Ideonella sakaiensis	plasticdb
+00096	Plastics	PEF	PETase	PETase	Ideonella sakaiensis	plasticdb
+00100	Plastics	PBS/PCL/PES/PHB/PLA/PHA	est	Esterase	Aspergillus fumigatus	plasticdb
+00174	Plastics	LDPE	lacc	Laccase	Rhodococcus ruber	plasticdb
+00175	Plastics	PET	hyd	Hydrolase	Uncultured bacterium	plasticdb
+00185	Plastics	PET	PETase	PETase	Uncultured bacterium	plasticdb
+00186	Plastics	PET	PETase	PETase	Uncultured bacterium	plasticdb
+00187	Plastics	PET	PETase	PETase	Uncultured bacterium	plasticdb
+00188	Plastics	PET	PETase	PETase	Uncultured bacterium	plasticdb
+00189	Plastics	PET	PETase	PETase	Uncultured bacterium	plasticdb
+00190	Plastics	PET	PETase	PETase	Uncultured bacterium	plasticdb
+00191	Plastics	PET	PETase	PETase	Uncultured bacterium	plasticdb
+00192	Plastics	PET	PETase	PETase	Uncultured bacterium	plasticdb
+00193	Plastics	PET	PETase	PETase	Uncultured bacterium	plasticdb
+00194	Plastics	PET	PETase	PETase	Ketobacter sp.	plasticdb
+00195	Plastics	PET	PETase	PETase	Actinomycetota bacterium	plasticdb
+00196	Plastics	PET	PETase	PETase	Micromonosporaceae bacterium	plasticdb
+00197	Plastics	PET	PETase	PETase	Ketobacter sp.	plasticdb
+00198	Plastics	PET	PETase	PETase	Ketobacter alkanivorans	plasticdb
+00199	Plastics	PET	PETase	PETase	Nocardioidaceae bacterium	plasticdb
+00200	Plastics	PET	PETase	PETase	Caldimonas taiwanensis	plasticdb
+00201	Plastics	PET	PETase	PETase	Marinactinospora thermotolerans	plasticdb
+00202	Plastics	PET	PETase	PETase	Saccharopolyspora flava	plasticdb
+00203	Plastics	PET	PETase	PETase	Thermobifida fusca	plasticdb
+00204	Plastics	PET	PETase	PETase	Thermobifida fusca	plasticdb
+00205	Plastics	PET	PETase	PETase	Thermobifida alba	plasticdb
+00206	Plastics	PET	PETase	PETase	Thermobifida cellulosilytica	plasticdb
+00207	Plastics	PET	PETase	PETase	Thermobifida halotolerans	plasticdb
+00208	Plastics	PET	PETase	PETase	Thermobifida cellulosilytica	plasticdb
+1AGY	Plastics	PMCL	cut1	Cutinase	Fusarium solani	hadeg
+2FX5_A	Plastics	PET	cut	Cutinase	Pseudomonas mendocina	hadeg
+3GBS_A	Plastics	PCL	cutL	Cutinase	Aspergillus oryzae	hadeg
+5AJH_A	Plastics	PCL/PET	cut	Cutinase	Fusarium oxysporum	hadeg
+7CUV_A	Plastics	PET	peth	Hydrolase	Uncultured bacterium	hadeg
+7NEI_A	Plastics	PET	hyd	Polyester hydrolase	Thermoanaerobacter sp.	plasticdb
+7NEI_B	Plastics	PCL/PET	peth	Polyester hydrolase	Uncultured bacterium	hadeg
+7QJM	Plastics	PET	peth	Alpha/beta-hydrolase	NA	hadeg
+A0A031MKR8	Plastics	PET	cut	Cutinase	Halopseudomonas bauzanensis	hadeg
+A0A060N399	Plastics	PLA	cut	Cutinase	Paraphoma sp. B47-9	pazy
+A0A060N5H2	Plastics	PLA	cut	Cutinase-like enzyme	Cryptococcus sp. BPD1A	pazy
+A0A075B5G4	Plastics	PET	cut	Cutinase	Humicola insolens	hadeg
+A0A078MGG8	Plastics	PET	lip	Lipase 1	Pseudomonas saudimassiliensis	hadeg
+A0A0C1F4U8	Plastics	PCL/PET/PU	OA86_11720	Esterase	Kaistella jeonii	hadeg
+A0A0G3BI90	Plastics	PCL/PET	AAW51_2473	PETase	Polyangium brachysporum	hadeg
+A0A0K8P6T7	Plastics	PET	ISF6_4831	PETase	Ideonella sakaiensis	hadeg
+A0A0K8P8E7	Plastics	PET	ISF6_0224	MHETase	Ideonella sakaiensis	hadeg
+A0A0M4UPQ3	Plastics	NR	latA	Rubber-oxygenase	Rhizobacter gummiphilus	hadeg
+A0A0P0ZE81	Plastics	PLA	CLE1	Cutinase-like enzyme	Saitozyma flava	pazy
+A0A0U5AS91	Plastics	PLA	PAM	Protease	Actinomadura sp. RD001933	pazy
+A0A0W0F4B8	Plastics	PCL/PES/PET	WG66_16246	Cutinase	Moniliophthora roreri	hadeg
+A0A145Z9W5	Plastics	PBAT	est	Polyesterase	Pseudomonas pseudoalcaligenes	hadeg
+A0A1B0Z6Y3	Plastics	PET	lip	Lipase	Halopseudomonas pelagia	hadeg
+A0A1B2N825	Plastics	PVA	BAY15_3292	PVA dehydrogenase	Stenotrophomonas rhizophila	hadeg
+A0A1C9T772	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	hadeg
+A0A1C9T784	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	hadeg
+A0A1C9T7D1	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	hadeg
+A0A1C9T7D3	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	hadeg
+A0A1C9T7G6	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	hadeg
+A0A1C9T884	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	hadeg
+A0A1E1FNX8	Plastics	PBAT	pbath	PBAT hydrolase	Bacillus pumilus	hadeg
+A0A1E1FNX8_BACPU	Plastics	PBAT/PBSA/PES/PCL	pbath	Hydrolase	Bacillus pumilus	plasticdb
+A0A1F4JXW8	Plastics	PET	DLH	Dienelactone hydrolase domain-containing protein	Burkholderiales bacterium	hadeg
+A0A1H6AD45	Plastics	PET/PU	peth	Polyester hydrolase	Halopseudomonas aestusnigri VXGO14	hadeg
+A0A1I6NU60	Plastics	PET	cut	Cutinase	Saccharopolyspora flava	hadeg
+A0A1M6F5V0	Plastics	PCL/PU	SAMN04487908_10753	Esterase	Aequorivita viscosa	hadeg
+A0A1S6Q8F9	Plastics	NR	roxB	Rubber-oxygenase	Steroidobacter cummioxidans	hadeg
+A0A1T4KK94	Plastics	PET	cut	Cutinase	Marinactinospora thermotolerans DSM 45154	hadeg
+A0A1W2FU08	Plastics	PET	PETase	Cutinase	Kibdelosporangium aridum	pazy
+A0A1W6L438	Plastics	PET	DLH	Dienelactone hydrolase domain-containing protein	Rhizobacter gummiphilus	hadeg
+A0A1W6L588	Plastics	PET	DLH	NA	NA	hadeg
+A0A1W6L588_9BURK	Plastics	PET	PETase	Hydrolase	Rhizobacter gummiphilus	plasticdb
+A0A1Z2SIQ1	Plastics	PCL/PET	BSQ33_03270	PETase	Vibrio gazogenes	hadeg
+A0A291HVH1	Plastics	PLA	LP175	Poly(L-lactide)-degrading enzyme (Fragment)	Laceyella sacchari	pazy
+A0A2H5Z9R5	Plastics	PET	HRbin29_00073	PETase	Uncultured bacterium	hadeg
+A0A2I2K6T5	Plastics	PUR	ubrb	Esterase, CE_Ubrb	uncultured bacterium	pazy
+A0A679PDB4	Plastics	PCL	pclh	Hydrolase	Streptomyces sp. SM14	hadeg
+A0A7I8E2Z4	Plastics	PBAT	pbath	PBAT hydrolase	Rhodococcus sp	hadeg
+A0A7I8E2Z4_RHOSO	Plastics	PBAT/PBS/PBSA/PCL/PES	pbath	Hydrolase	Rhodococcus fascians	plasticdb
+A0A7W8QII1	Plastics	PA	nylC	L-aminopeptidase/D-esterase-like protein	Nocardiopsis composta	pazy
+A0A840P940	Plastics	PA	nylC	L-aminopeptidase/D-esterase-like protein	Thermocatellispora tengchongensis	pazy
+A0A8W8	Plastics	PHA/PHB	phaZ	PHB depolymerase	Priestia megaterium	hadeg
+A0A975YYR5	Plastics	NR	lcp	Latex clearing protein	Streptomyces sp. AC04842	hadeg
+A0A975YYT9	Plastics	NR	lcp	NA	NA	hadeg
+A1Z374	Plastics	PU	pueA	Polyurethanase	Pseudomonas chlororaphis	hadeg
+A3U3H1	Alkanes	Subterminal_oxidation	BVMO	Baeyer-Villiger monooxygenase	Pseudooceanicola batsensis ATCC BAA-863	hadeg
+A4IU28	Alkanes	Terminal/biterminal_oxidation	LadA	Alkane monoxygenase	Geobacillus thermodenitrificans NG80-2	hadeg
+A4UZ10	Plastics	PBS/PBSA/PCL/PES/PHA/PHB/PLA	plaM4	PLA depolymerase	Uncultured bacterium	hadeg
+A4UZ11	Plastics	PLA	plaM5	PLA depolymerase	Uncultured bacterium	hadeg
+A4UZ12	Plastics	PBS/PBSA/PCL/PES/PHA/PHB/PLA	plaM7	PLA depolymerase	Uncultured bacterium	hadeg
+A4UZ13	Plastics	PLA	plaM8	depolymerase	uncultured bacterium	pazy
+A4UZ14	Plastics	PBS/PBSA/PCL/PES/PHA/PLA	plaM9	PLA depolymerase	Uncultured bacterium	hadeg
+A5H9N6	Alkanes	Terminal/biterminal_oxidation	almA	Probable FAD-binding monooxygenase AlmA	Acinetobacter sp.	hadeg
+A5H9N8	Alkanes	Terminal/biterminal_oxidation	almA	AlmA	Acinetobacter venetianus ATCC 31012	hadeg
+A5H9P0	Alkanes	Terminal/biterminal_oxidation	almA	AlmA	Acinetobacter sp. M-1	hadeg
+A6WFI5	Plastics	PCL/PPA	cut	Cutinase	Kineococcus radiotolerans ATCC BAA-149	hadeg
+A7HU16	Alkanes	Subterminal_oxidation	BVMO	Baeyer-Villiger monooxygenase	Parvibaculum lavamentivorans DS-1	hadeg
+A9ZLZ8	Plastics	PEG	pegC	PEG aldehyde dehydrogenase	Streptomyces sp.	hadeg
+A9ZM00	Plastics	PEG	pegA	PEG dehydrogenase	Sphingomonas macrogoltabidus	hadeg
+AAA21974.1	Plastics	P3HP/P4HB/PEA/PES/PHB/PHA	phaZ	PHB depolymerase	Ralstonia pickettii	plasticdb
+AAA33335	Plastics	PET	fsC	cutinase	Fusarium solani	pazy
+AAA33335.1	Plastics	PET	CUT1	Cutinase	Fusarium solani	plasticdb
+AAA64538.1	Plastics	PHO/PHA	phaZ	PHA depolymerase	Pseudomonas fluorescens	plasticdb
+AAA65705.1	Plastics	PHB/PHA	phaZ5	PHB depolymerase A	Paucimonas lemoignei	plasticdb
+AAB17150.1	Plastics	PHB/PHA	phaZ2	PHA depolymerase B	Paucimonas lemoignei	plasticdb
+AAB40611.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Alcaligenes faecalis	plasticdb
+AAD22743	Plastics	PUR	pueA	polyurethanase esterase A	Pseudomonas chlororaphis	pazy
+AAD22743.1	Plastics	PU	pueA	Polyurethane esterase A	Pseudomonas chlororaphis	plasticdb
+AAF01331	Plastics	PUR	pueB	polyurethanase esterase B	Pseudomonas chlororaphis	pazy
+AAF01331.1	Plastics	PU	pueB	Polyurethanase	Pseudomonas chlororaphis	plasticdb
+AAF66684	Plastics	PUR	pulA	polyurethanase lipase A	Pseudomonas fluorescens	pazy
+AAF66684.1	Plastics	PU	pulA	Protease	Pseudomonas fluorescens	plasticdb
+AAK11724	Plastics	PUR	amdA	enantioselective amidase	Rhodococcus erythropolis	pazy
+AAK28498	Plastics	PUR	amdA	enantioselective amidase	Agrobacterium tumefaciens	pazy
+AAN70570.1	Plastics	PHA	phaB	PHA depolymerase	Pseudomonas putida	plasticdb
+AAP57213	Plastics	LDPE	cda	Chitin deacetylase	Rhizopus oryzae	plasticdb
+AAP85930.1	Plastics	PHA/PHB	phaZ	PHA depolymerase	Cupriavidus necator	plasticdb
+AAQ05770.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Azospirillum brasilense	plasticdb
+AAQ72538.1	Plastics	PCL/PHA/PHBV/PHPV	phaZ	MCL PHA depolymerase	Pseudomonas alcaligenes	plasticdb
+AAT09963.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Schlegelella sp.	plasticdb
+AAY92471	Plastics	PUR	pueA	polyurethanase A	Pseudomonas protegens Pf-5	pazy
+AAY92474	Plastics	PUR	pueB	polyurethanase B	Pseudomonas protegens Pf-5	pazy
+ABC22769.1	Plastics	PHB/PHA	rru_A1969	PHB depolymerase	Rhodospirillum rubrum	plasticdb
+ABM54446.1	Plastics	PU	pueB	Polyurethanase	Pseudomonas chlororaphis	plasticdb
+ABM54447.1	Plastics	PU	pueA	Polyurethanase	Pseudomonas chlororaphis	plasticdb
+ACC95208.1	Plastics	PCL/PET	lipIAF5-2	PETase	Uncultured bacterium	plasticdb
+ACD16728	Plastics	PUR	uraD	urate catabolism protein	Paraburkholderia phytofirmans PsJN	pazy
+ACI48814.2	Plastics	PHB/PHBV/PHA	phaZd	PHB depolymerase	Diaphorobacter sp.	plasticdb
+ACY56506	Plastics	PUR	FDB	(-) gamma-lactamase	Microbacterium hydrocarbonoxydans	pazy
+ACY96861.1	Plastics	PET	PETase	Triacylglycerol lipase	Thermomonospora curvata	plasticdb
+ADH43200	Plastics	PET	estB	para-nitrobenzylesterase	Bacillus subtilis	pazy
+ADH43200.1	Plastics	PET	pnbA	P-nitrobenzylesterase	Bacillus subtilis	plasticdb
+ADK73612	Plastics	PET	cutA	cutinase A precursor	Ectopseudomonas oleovorans	pazy
+ADK73612.1	Plastics	PCL/PET	cutA	Cutinase	Pseudomonas oleovorans	plasticdb
+ADM47605	Plastics	PET	enz_702	acetylxylan esterase, partial	Thermobifida fusca	pazy
+ADV92525.1	Plastics	PET	cut1	Cutinase	Thermobifida alba	plasticdb
+ADV92526	Plastics	PET/PBAT	cut1	cutinase 1, partial	Thermobifida cellulosilytica	pazy
+ADV92526.1	Plastics	PET/PLA	cut1	Cutinase	Thermobifida cellulosilytica	plasticdb
+ADV92527	Plastics	PET	cut2	cutinase 2, partial	Thermobifida cellulosilytica	pazy
+ADV92527.1	Plastics	PET/PLA	cut2	Cutinase	Thermobifida cellulosilytica	plasticdb
+ADV92528.1	Plastics	PET	cut1	Cutinase	Thermobifida fusca	hadeg
+AET05798	Plastics	PET	cut1	cutinase	Thermobifida fusca	pazy
+AET05799	Plastics	PET	cut2	cutinase	Thermobifida fusca	pazy
+AET05799.1	Plastics	PET	cut2	Cutinase	Thermobifida fusca	plasticdb
+AEV21261.1	Plastics	PCL/PET	LCcut	Cutinase	Uncultured bacterium	plasticdb
+AEZ06355.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Pseudomonas mendocina	plasticdb
+AFA45122.1	Plastics	PET	PETase	Serine hydrolase	Thermobifida halotolerans	plasticdb
+AGT90042	Plastics	PUR	gatA	amidase	Rhodococcus erythropolis CCM2595	pazy
+AGT96414	Plastics	PLA	est	esterase	uncultured bacterium	pazy
+AGT96414.1	Plastics	PLA	est	Esterase	Uncultured bacterium	plasticdb
+AGT96415	Plastics	PLA	est	esterase	uncultured bacterium	pazy
+AGT96415.1	Plastics	PLA/PCL/PBSA	est	Esterase	Uncultured bacterium	plasticdb
+AHG30919	Plastics	PLA	est	hypothetical protein	gamma proteobacterium enrichment culture clone L-Tri-Mess-8_orf1	pazy
+AIC18917.1	Plastics	PLA/PHA/PCL/PES	est	Lipase	Pseudomonas chlororaphis	plasticdb
+AIC19151.1	Plastics	PLA/PHA/PCL/PES	hyd	Lipase	Pseudomonas chlororaphis	plasticdb
+AII11185.1	Plastics	PE	cueO	Copper oxidase	Rhodococcus opacus	plasticdb
+AII11221	Plastics	PE	cueO	Copper oxidase	Rhodococcus opacus	plasticdb
+AKJ29164.1	Plastics	PCL/PET	AAW51_2473	PETase	Polyangium brachysporum	plasticdb
+AKJ87216	Plastics	PLA	est	hypothetical protein	uncultured organism	pazy
+AKJ87250	Plastics	PLA	est	hypothetical protein	uncultured organism	pazy
+AKJ87264	Plastics	PLA	est	hypothetical protein	uncultured organism	pazy
+AKZ20828	Plastics	PBAT	estA	Esterase	Clostridium botulinum	hadeg
+AKZ20828.1	Plastics	PBAT	estA	Esterase	Clostridium botulinum	plasticdb
+AKZ20829	Plastics	PBAT	estA	Esterase	Clostridium botulinum	hadeg
+AKZ20829.1	Plastics	PBAT	estB	Esterase	Clostridium botulinum	plasticdb
+ALC24_4107	Plastics	PHB	ALC24_4107	Esterase PHB depolymerase	Alcanivorax sp. 24	hadeg
+ALS54749	Plastics	PBAT	est1	esterase	synthetic construct	pazy
+AMW89397.1	Plastics	PBAT	est	Polyesterase	Pseudomonas pseudoalcaligenes	plasticdb
+ANG60415	Plastics	PUR	gatA	urethanase	Lysinibacillus fusiformis	pazy
+ANP21910	Plastics	PET	lip	lipase	Halopseudomonas pelagia	pazy
+ANP21910.1	Plastics	PET	lip	Lipase	Halopseudomonas pelagia	plasticdb
+AOA73724.1	Plastics	PVA	pva	PVA dehydrogenase	Stenotrophomonas rhizophila	plasticdb
+AOR05748.1	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	plasticdb
+AOR05749.1	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	plasticdb
+AOR05750.1	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	plasticdb
+AOR05751.1	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	plasticdb
+AOR05752.1	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	plasticdb
+AOR05753.1	Plastics	PBAT	est	Carboxylesterase	Uncultured bacterium	plasticdb
+APJ12152	Plastics	PET	lipMRD9	esterase	Bacillus safensis	pazy
+ARF18137	Plastics	PUR	gatA	glutamyl-tRNA amidotransferase	Sporosarcina ureae	pazy
+ASA57064.1	Plastics	PCL/PET	BSQ33_03270	PETase	Vibrio gazogenes	plasticdb
+AYO90679.1	Plastics	LDPE	alkB	Alkane monooxygenase	Paenibacillus sp.	plasticdb
+AZN65426.1	Plastics	PS	alkB	Alkane-1 monooxygenase	Acinetobacter johnsonii	plasticdb
+Afu4g03560	Plastics	PHB	phaZ	depolymerase	Aspergillus fumigatus 76T-3	hadeg
+B0FLR6	Plastics	PCL	PLAase2	Protease	Amycolatopsis orientalis	hadeg
+B0FY08	Plastics	PLA	PLAase3	Protease	Amycolatopsis orientalis	hadeg
+B2NHN2	Plastics	PHA/PHB	phaZPfu	PHB depolymerase	Talaromyces funiculosus	hadeg
+B6UQD9	Plastics	PHA/PHB/PHBV	phaZd	PHB depolymerase	Diaphorobacter sp.	hadeg
+BAA04986.1	Plastics	PHB/PHA	pDS-PS	PHB depolymerase	Ralstonia pickettii	plasticdb
+BAA09321.1	Plastics	PVA	pvaA	PVA dehydrogenase	Pseudomonas sp.	plasticdb
+BAA19791.1	Plastics	PHB/PHA/P3HP/P4HB/PEA/PES	phaZCac	PHB depolymerase	Comamonas acidovorans	plasticdb
+BAA22882.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Comamonas testosteroni	plasticdb
+BAA32541.1	Plastics	P3HP/P4HB/PEA/PES/PHB	phaZpst	PHB depolymerase	Stutzerimonas stutzeri	plasticdb
+BAA35137.1	Plastics	PHB/PPL/PHA	phaZ	PHB depolymerase	Acidovorax sp.	plasticdb
+BAA76305	Plastics	PLA/PUR	est	polyurethane esterase	Delftia acidovorans	pazy
+BAA76305.1	Plastics	PU	pudA	PU-esterase	Comamonas acidovorans	plasticdb
+BAA92354.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Caldimonas manganoxidans	plasticdb
+BAA94192.1	Plastics	O-PVA	pvaB	Oxidized PVA hydrolase	Pseudomonas sp.	plasticdb
+BAA94193.1	Plastics	PVA	pvaA	PVA dehydrogenase	Pseudomonas sp.	plasticdb
+BAB33284.1	Alkanes	Finnerty_pathway	alkMa	alkane hydroxylase A	Acinetobacter sp. M-1	hadeg
+BAB33287.1	Alkanes	Finnerty_pathway	alkMb	alkane hydroxylase B	Acinetobacter sp. M-1	hadeg
+BAB86909	Plastics	PBS	pbsA	PBS(A) depolymerase	Acidovorax delafieldii	pazy
+BAB86909.1	Plastics	PBS	pbsA	PBS depolymerase	Acidovorax delafieldii	plasticdb
+BAC15574.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Marinobacter sp.	plasticdb
+BAC67195.1	Plastics	PLA	plaA	PLA depolymerase	Paenibacillus amylolyticus	plasticdb
+BAC67242.1	Plastics	PBS/PCL/PHB/PLA/PHA	CLE1	Cutinase	Cryptococcus sp.	plasticdb
+BAD57679	Plastics	PA	gatA	putative amidase	Nocardia farcinica IFM 10152	pazy
+BAD95542.3	Plastics	O-PVA	oph	PVA hydrolase	Sphingomonas sp.	plasticdb
+BAD95543.3	Plastics	PVA	pvadh	PVA hydrolase	Sphingomonas sp.	plasticdb
+BAE97621.1	Plastics	Nylon	nylB	Nylon hydrolase	Agromyces sp.	plasticdb
+BAE97622.2	Plastics	Nylon	nylC	Nylon hydrolase	Agromyces sp.	plasticdb
+BAE97629.1	Plastics	Nylon	nylC	Nylon hydrolase	Agromyces sp.	plasticdb
+BAE97630.1	Plastics	Nylon	nylB	Nylon hydrolase	Agromyces sp.	plasticdb
+BAF35850.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Priestia megaterium	plasticdb
+BAF57210.1	Plastics	PBS/PBSA/PCL/PES/PHB/PLA/PHA	plaM4	PLA depolymerase	Uncultured bacterium	plasticdb
+BAF57211.1	Plastics	PLA	plaM5	PLA depolymerase	Uncultured bacterium	plasticdb
+BAF57212.1	Plastics	PBS/PBSA/PCL/PES/PHB/PHA	plaM7	PLA depolymerase	Uncultured bacterium	plasticdb
+BAF57213.1	Plastics	PLA	plaM8	PLA depolymerase	Uncultured bacterium	plasticdb
+BAF57214	Plastics	PLA	plaM9	depolymerase	uncultured bacterium	pazy
+BAF57214.1	Plastics	PBS/PBSA/PCL/PES/PLA/PHA	plaM9	PLA depolymerase	Uncultured bacterium	plasticdb
+BAF98449.1	Plastics	PEG	pegC	PEG aldehyde dehydrogenase	Streptomyces sp.	plasticdb
+BAF98451.1	Plastics	PEG	pegA	PEG dehydrogenase	Sphingomonas macrogoltabidus	plasticdb
+BAG32152.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Talaromyces funiculosus	plasticdb
+BAI44731	Plastics	PA	ooH	omega-octalactam hydrolase	Rhodococcus sp. Oct1	pazy
+BAI99230	Plastics	PBAT/PET	est1	esterase	Thermobifida alba	pazy
+BAI99230.2	Plastics	PCL	est1	Esterase	Thermobifida alba	plasticdb
+BAK48590.1	Plastics	PCL	est2	Esterase	Thermobifida alba	plasticdb
+BAN66731	Plastics	PLA	CLE1	cutinase-like enzyme	Moesziomyces antarcticus	pazy
+BAO42836.1	Plastics	PBAT/PBS/PBSA/PCL/PET/PHB/PLA/PHA	cut190	Cutinase	Saccharomonospora viridis	plasticdb
+BAS44780	Plastics	NR	latA	rubber oxygenase	Piscinibacter gummiphilus	pazy
+BAS44780.1	Plastics	NR	latA	Rubber-oxygenase	Rhizobacter gummiphilus	plasticdb
+BBB03504.1	Plastics	PBS/PBSA/PCL	CLE1	Esterase	Pseudozyma antarctica	plasticdb
+BBP47208	Plastics	PUR	CPUTNase	urethanase	Candida parapsilosis	pazy
+BEG79545	Plastics	PA	nyl4A	polyamide 4 hydrolase	Pseudoalteromonas sp.	pazy
+C0LMW6	Alkanes	Terminal/biterminal_oxidation	alkB	alkane hydroxylase/rubredoxin fusion protein	Dietzia sp. E1	hadeg
+C3RYL0	Plastics	PCL/PET	lipIAF5-2	PETase	Uncultured bacterium	hadeg
+C3W4W7	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane hydroxylase	Alloalcanivorax dieselolei	hadeg
+CAH17554.1	Plastics	PET	bta2	Hydrolase	Thermobifida fusca	plasticdb
+CAJ92291.1	Plastics	PHA/PHB	phaZ1	PHA depolymerase	Cupriavidus necator	plasticdb
+CAJ92475.1	Plastics	PHA/PHB	phaZc	PHA depolymerase	Cupriavidus necator	plasticdb
+CAJ93348.1	Plastics	PHA/PHB	phaZ2	PHA depolymerase	Cupriavidus necator	plasticdb
+CAJ93939.1	Plastics	PHA/PHB	phaZ2	PHA depolymerase	Cupriavidus necator	plasticdb
+CAJ95139.1	Plastics	PHA/PHB	phaZ3	PHA depolymerase	Cupriavidus necator	plasticdb
+CAJ95805.1	Plastics	PHA/PHB	phaZ5	PHA depolymerase	Cupriavidus necator	plasticdb
+CAJ96855.1	Plastics	PHA/PHB	phaZ6	PHA depolymerase	Cupriavidus necator	plasticdb
+CAJ97183.1	Plastics	PHA/PHB	phaZ7	PHA depolymerase	Cupriavidus necator	plasticdb
+CAL16645.1	Plastics	PLA/PCL/PBSA	ABO_1197	Esterase	Alcanivorax borkumensis	plasticdb
+CAL16699.1	Plastics	PLA/PBSA	estC	Esterase	Alcanivorax borkumensis	plasticdb
+CBY05530.1	Plastics	PET	cut2	Cutinase	Thermobifida fusca	plasticdb
+CCK74972.1	Plastics	PCL/PET	lipA	PETase	Oleispira antarctica	plasticdb
+CEE00769	Plastics	PET	est8_89	putative esterase YtxM	Caldibacillus thermoamylovorans	pazy
+D0Q1H3	Alkanes	Terminal/biterminal_oxidation	CYP450	cytochrome P450 alkane hydroxylase	Alcanivorax dieselolei	hadeg
+D1A2H1	Plastics	PCL/PET	Tcur_0390	Hydrolase	Thermomonospora curvata	hadeg
+D1A9G5	Plastics	PET	Tcur_1278	Triacylglycerol lipase	Thermomonospora curvata	hadeg
+D2JNY2	Alkanes	Terminal/biterminal_oxidation	alkB	NA	NA	hadeg
+D3AU79	Plastics	PBAT	CLOSTHATH_07193	Esterase	Clostridium hathewayi	hadeg
+D4Q9N1	Plastics	PCL/PET	est1	Esterase	Thermobifida alba	hadeg
+D7R6G8	Plastics	PET	pnbA	P-nitrobenzylesterase	Bacillus subtilis	hadeg
+DAC80635	Plastics	PET	SM14est	Alpha/beta hydrolase	Streptomyces sp. SM14	pazy
+DAC80635.1	Plastics	PCL	hyd	Hydrolase	Streptomyces sp.	plasticdb
+E3UUD9	Alkanes	Terminal/biterminal_oxidation	almA	Putative flavin-binding monooxygenase	Alloalcanivorax dieselolei	hadeg
+E5BBQ2	Plastics	PET	peth	E5BBQ2_THEFU Poly(ethylene terephthalate) hydrolase	Thermobifida fusca	hadeg
+E7D4Q3	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane hydroxylase	Gordonia sp. SoCg	hadeg
+E8U721	Plastics	PET	lip	E8U721_DEIML Triacylglycerol lipase	Deinococcus maricopensis DSM 21211	hadeg
+E9KJL1	Plastics	PCL/PET	cutA	Cutinase	Pseudomonas oleovorans	hadeg
+E9LVH7	Plastics	PET	cut1	Cutinase	Thermobifida alba	hadeg
+E9LVH8	Plastics	PET/PLA	cut1	Cutinase	Thermobifida cellulosilytica	hadeg
+E9LVH9	Plastics	PET/PLA	cut2	Cutinase	Thermobifida cellulosilytica	hadeg
+E9UPM2	Plastics	PET	lip	EGD44994 E9UPM2_9ACTN Poly(ethylene terephthalate) hydrolase	Nocardioidaceae bacterium Broad-1	hadeg
+EAO52570.1	Plastics	PHB/PHA	RBTH_03267	PHB depolymerase	Bacillus thuringiensis	plasticdb
+EF189714	Plastics	PBSA	lipA	Lipase	Burkholderia cepacia	hadeg
+EFC94627.1	Plastics	PBAT	cesB	Esterase	Clostridium hathewayi	plasticdb
+EGD44994	Plastics	PET	enz_503	Lipase 1 (Triacylglycerol lipase)	Nocardioidaceae bacterium Broad-1	pazy
+EIW29778	Plastics	PBAT	PFL1	lipase	Pelosinus fermentans DSM 17108	pazy
+EIW29778.1	Plastics	PBAT	estA	Lipase	Pelosinus fermentans	plasticdb
+ESK97883	Plastics	PET	CUT1	cutinase	Moniliophthora roreri MCA 2997	pazy
+EY04_01535	Plastics	PHBV/PHO/PLA/PCL/PES	phaZ	PHA depolymerase	Pseudomonas chlororaphis	plasticdb
+EY04_02420	Plastics	PHBV/PHA/PLA/PCL/PES	estA	Lipase	Pseudomonas chlororaphis	plasticdb
+EY04_21540	Plastics	PHBV/PHO/PLA/PCL/PES	est	Lipase	Pseudomonas chlororaphis	plasticdb
+F7IX06	Plastics	PCL	est2	Esterase	Thermobifida alba	hadeg
+G1C7J8	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane-1-monooxygenase	Alcanivorax hongdengensis	hadeg
+G1C7M4	Alkanes	Terminal/biterminal_oxidation	almA	Monooxygenase	Alcanivorax hongdengensis	hadeg
+G3EIL3	Alkanes	Terminal/biterminal_oxidation	alkB	alkane 1-monooxygenase	Dietzia sp. DQ12-45-1b	hadeg
+G8GER6	Plastics	PET	cut_1	Cutinase	Thermobifida fusca	hadeg
+G9BY57	Plastics	PCL/PET	cut	Cutinase	Uncultured bacterium	hadeg
+GBD22443	Plastics	PET	bhrPETase	Poly(ethylene terephthalate) hydrolase	bacterium HR29	pazy
+GBD22443.1	Plastics	PET	PETase	PETase	Uncultured bacterium	plasticdb
+GEN0105	Plastics	3PET/PCL/PLA	GEN0105	Hypothetical protein Hydrolyzes polycaprolactone	PCL	hadeg
+GOM1	Alkanes	Terminal/biterminal_oxidation	almA	monooxygenase, flavin-binding family	Pseudomonas aeruginosa GOM1	hadeg
+H6N162	Plastics	NR	lcp	Latex clearing protein 1 Lcp	Gordonia polyisoprenivorans DSM 44266	hadeg
+H6N4Z1	Plastics	NR	lcp	Latex clearing protein Lcp	Gordonia polyisoprenivorans DSM 44266	hadeg
+H6WL44	Plastics	PHA/PHB	phaZ	PHB depolymerase	Pseudomonas mendocina	hadeg
+H6WX58	Plastics	PET	peth	Serine hydrolase	Thermobifida halotolerans	hadeg
+I9L7C1	Plastics	PBAT	FB4_0780	Lipase	Pelosinus fermentans	hadeg
+K0C9K7	Alkanes	Terminal/biterminal_oxidation	alkB	NA	NA	hadeg
+K0CFH5	Alkanes	Terminal/biterminal_oxidation	almA	Monooxygenase, flavin-binding family	Alcanivorax dieselolei DSM 16502	hadeg
+KAH7127633	Plastics	PET	dmC	cutinase	Dactylonectria macrodidyma	pazy
+KAL1836386	Plastics	PET	rtC	hypothetical protein VTJ49DRAFT_5224	Mycothermus thermophilus	pazy
+KAL2018089	Plastics	PET	taC	hypothetical protein VTK56DRAFT_1275	Thermocarpiscus australiensis	pazy
+KFJ10595	Plastics	PHA/PHB	phaZ	PHB depolymerase	Delftia acidovorans	hadeg
+KFJ10595.1	Plastics	PHB/PHA	phaZ2	PHB depolymerase	Delftia acidovorans	plasticdb
+KFY49210.1	Plastics	PBS	V496_10187	Hydrolase	Geomyces sp.	plasticdb
+KFY57494.1	Plastics	PBS	chi	Chitinase	Geomyces sp.	plasticdb
+KQR39103	Plastics	PA	nylC	6-aminohexanoate hydrolase	Microbacterium sp. Leaf159	pazy
+KTB31184.1	Plastics	PES/PCL/PET	cut	Cutinase	Moniliophthora roreri	plasticdb
+L7QFU8	Alkanes	Terminal/biterminal_oxidation	CYP153	CYP153	Dietzia sp. DQ12-45-1b	hadeg
+LT571440	Plastics	PET	peth	Polyester hydrolase	Uncultured bacterium	hadeg
+LT571441	Plastics	PET	peth	Polyester hydrolase	Uncultured bacterium	hadeg
+LT571442	Plastics	PET	peth	Polyester hydrolase	Uncultured bacterium	hadeg
+LT571443	Plastics	PET	peth	Polyester hydrolase	Uncultured bacterium	hadeg
+LT571444	Plastics	PET	peth	Polyester hydrolase	Uncultured bacterium	hadeg
+LT571445	Plastics	PET	peth	Polyester hydrolase	Uncultured bacterium	hadeg
+M9YBL3	Plastics	PHA/PHB	AvCA6_03910	PHB depolymerase	Azotobacter vinelandii	hadeg
+MEC8523093	Plastics	PET	PETase6	Hypothetical protein VXZ24_02475	Pseudomonadota bacterium	pazy
+O05527	Plastics	P3HP/P4HB/PEA/PES/PHA/PHB	phaZCac	PHB depolymerase	Comamonas acidovorans	hadeg
+O24719	Plastics	PHA/PHB	phaZ	PHB depolymerase	Comamonas testosteroni	hadeg
+O31250	Alkanes	Terminal/biterminal_oxidation	alkB	lkane 1-monooxygenase	Acinetobacter baylyi ATCC 33305	hadeg
+O82950	Plastics	P3HP/P4HB/PEA/PES/PHA/PHB	phaZpst	PHB depolymerase	Pseudomonas stutzeri	hadeg
+O85764	Alkanes	Auxiliar_alkane_gene	ssuD	Alkanesulfonate monooxygenase	Pseudomonas putida	hadeg
+ODU60407	Plastics	PET	enz_406	MAG: hypothetical protein ABT02_06340	Comamonadaceae bacterium SCN 68-20	pazy
+P00272	Alkanes	Terminal/biterminal_oxidation	alkG	Rubredoxin-2	NA	hadeg
+P00590	Plastics	PET	cut1	Cutinase	Fusarium solani	hadeg
+P00780	Plastics	PLA	subC	Protease	Bacillus licheniformis	hadeg
+P06873	Plastics	PLA	PROK	Protease	Parengyodontium album	hadeg
+P07061	Plastics	Nylon	nylB	Hydrolase	Paenarthrobacter ureafaciens	hadeg
+P0A4E9	Alkanes	Terminal/biterminal_oxidation	rubA3	Rubredoxin 3	NA	hadeg
+P0A4F1	Alkanes	Terminal/biterminal_oxidation	rubA4	Rubredoxin 4	NA	hadeg
+P0A901	Alkanes	Hydrocarbon_uptake	blc	Outer membrane lipoprotein Blc	Escherichia coli	hadeg
+P10384	Alkanes	Hydrocarbon_uptake	FadL	NA	NA	hadeg
+P12015	Alkanes	Terminal/biterminal_oxidation	CHMO	Cyclohexanone 1,2-monooxygenase	Acinetobacter sp.	hadeg
+P12625	Plastics	P3HP/P4HB/PEA/PES/PHA/PHB	phaZ	PHB depolymerase	Ralstonia pickettii	hadeg
+P12691	Alkanes	Terminal/biterminal_oxidation	alkB	alkane-1 monooxygenase	Pseudomonas putida GPo1	hadeg
+P12692	Alkanes	Terminal/biterminal_oxidation	alkF	Rubredoxin-1	NA	hadeg
+P12693	Alkanes	Auxiliar_alkane_gene	alkH_ald	Aldehyde dehydrogenase	Pseudomonas oleovorans GPo1	hadeg
+P13397	Plastics	Nylon	nylA	Hydrolase	Pseudomonas sp.	hadeg
+P13398	Plastics	Nylon	nylA	Hydrolase	Paenarthrobacter ureafaciens	hadeg
+P16496	Alkanes	Terminal/biterminal_oxidation	CYP450	Cytochrome P450 52A3-A	Candida maltosa	hadeg
+P17051	Alkanes	Auxiliar_alkane_gene	alkS	HTH-type transcriptional regulator AlkS	Pseudomonas oleovorans GPo1	hadeg
+P17052	Alkanes	Terminal/biterminal_oxidation	alkT	Rubredoxin-NAD(+) reductase	NA	hadeg
+P19833	Plastics	PBS/PCL/PET/PHA/PHB/PLA/PU	lip1	Polyester hydrolase	Moraxella sp.	hadeg
+P27353	Alkanes	Terminal/biterminal_oxidation	mmoX	Methane monooxygenase component A alpha chain	Methylosinus trichosporium	hadeg
+P27354	Alkanes	Terminal/biterminal_oxidation	mmoY	Methane monooxygenase component A beta chain	Methylosinus trichosporium	hadeg
+P27355	Alkanes	Terminal/biterminal_oxidation	mmoZ	Methane monooxygenase component A gamma chain	Methylosinus trichosporium	hadeg
+P27356	Alkanes	Terminal/biterminal_oxidation	mmoB	Methane monooxygenase regulatory protein B	Methylosinus trichosporium	hadeg
+P29599	Plastics	PLA	SUBB_LEDLE	Protease	Lederbergia lenta	hadeg
+P29600	Plastics	PLA	SUBS_LEDLE	Protease	Lederbergia lenta	hadeg
+P40402	Alkanes	Auxiliar_alkane_gene	ssuD	Alkanesulfonate monooxygenase	Bacillus subtilis	hadeg
+P41365	Plastics	PET	lipB	Lipase	Moesziomyces antarcticus	hadeg
+P42453	Alkanes	Terminal/biterminal_oxidation	rubA	NA	NA	hadeg
+P52090	Plastics	PHA/PHB	phaZ1	PHB-depolymerase	Paucimonas lemoignei	hadeg
+P52956	Plastics	PBS/PBSA	cutL	Cutinase	Aspergillus oryzae	hadeg
+P72206	Plastics	PHA/PHB	phaZ2	PHA depolymerase B	Paucimonas lemoignei	hadeg
+P72207	Plastics	PHA/PHB	phaZ3	PHB depolymerase	Paucimonas lemoignei	hadeg
+P77931	Plastics	PVA	pvaA	PVA dehydrogenase	Pseudomonas sp.	hadeg
+P94146	Plastics	PHA/PHB	phaZ	PHB-depolymerase	Alcaligenes faecalis AE122	hadeg
+PElaccase	Plastics	LDPE	lac	Laccase	Rhodococcos ruber	hadeg
+POM09750	Plastics	PU	lip	Polyurethanase	Pseudomonas sp. WP001	hadeg
+POM09750.1	Plastics	PU	lip	Polyurethanase	Pseudomonas sp.	plasticdb
+Q00593	Alkanes	Auxiliar_alkane_gene	alkJ_adh	Alcohol dehydrogenase	Pseudomonas oleovorans GPo1	hadeg
+Q00595	Alkanes	Hydrocarbon_uptake	alkL	Outer membrane protein AlkL	Pseudomonas oleovorans GPo1	hadeg
+Q02567	Plastics	PE	mnp1	Manganese peroxidase 1	Phanerodontia chrysosporium	hadeg
+Q02UU0	Alkanes	Finnerty_pathway	ahpC	Alkyl hydroperoxide reductase C	Pseudomonas aeruginosa	hadeg
+Q08790	Alkanes	Hydrocarbon_uptake	blc	Outer membrane lipoprotein Blc	Vibrio cholerae serotype O1 ATCC 39315	hadeg
+Q08KE7	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane hydroxylase	Mycobacterium sp. TY-6	hadeg
+Q0JYJ1	Plastics	PHA/PHB	phaZ7	PHA depolymerase	Cupriavidus necator	hadeg
+Q0JZG9	Plastics	PHA/PHB	phaZ6	PHA depolymerase	Cupriavidus necator	hadeg
+Q0K2G9	Plastics	PHA/PHB	phaZ5	PHA depolymerase	Cupriavidus necator	hadeg
+Q0K4D5	Plastics	PHA/PHB	phaZ3	PHA depolymerase	Cupriavidus necator	hadeg
+Q0K7T2	Plastics	PHA/PHB	phaZ2	PHA depolymerase	Cupriavidus necator	hadeg
+Q0K9H3	Plastics	PHA	phaZ2	PHA depolymerase	Cupriavidus necator	hadeg
+Q0KBZ6	Plastics	PHA/PHB	phaY2	PHA depolymerase	Cupriavidus necator	hadeg
+Q0KCI0	Plastics	PHA/PHB	phaZ1	PHA depolymerase	Cupriavidus necator	hadeg
+Q0SJK6	Alkanes	Subterminal_oxidation	prmD	Propane 2-monooxygenase, effector component	Rhodococcus jostii	hadeg
+Q0SJK7	Alkanes	Subterminal_oxidation	prmC	Propane 2-monooxygenase, hydroxylase component small subunit	Rhodococcus jostii	hadeg
+Q0SJK8	Alkanes	Subterminal_oxidation	prmB	Propane 2-monooxygenase, reductase component	Rhodococcus jostii	hadeg
+Q0SJK9	Alkanes	Subterminal_oxidation	prmA	Propane 2-monooxygenase, hydroxylase component large subunit	Rhodococcus jostii	hadeg
+Q0VKZ2	Alkanes	Terminal/biterminal_oxidation	alkG	NA	NA	hadeg
+Q0VKZ3	Alkanes	Terminal/biterminal_oxidation	alkB	NA	NA	hadeg
+Q0VKZ4	Alkanes	Auxiliar_alkane_gene	alkS	helix-turn-helix transcriptional regulator	Alcanivorax borkumensis SK2	hadeg
+Q0VLQ1	Plastics	PBSA/PCL/PES/PHA/PHBV/PLA	ABO_2449	Hydrolase	Alcanivorax borkumensis	hadeg
+Q0VQ49	Plastics	PBSA/PLA	estC	Esterase	Alcanivorax borkumensis	hadeg
+Q0VQA3	Plastics	PBSA/PCL/PLA	ABO_1197	Esterase	Alcanivorax borkumensis	hadeg
+Q0VTA9	Alkanes	Terminal/biterminal_oxidation	rubA	Rubredoxin-1	NA	hadeg
+Q0VTB0	Alkanes	Terminal/biterminal_oxidation	rubB	Rubredoxin-NAD(+) reductase	NA	hadeg
+Q0VTH3	Alkanes	Terminal/biterminal_oxidation	alkB	NA	NA	hadeg
+Q0VTI9	Alkanes	Hydrocarbon_uptake	alkN_mcp	methyl-accepting chemotaxis protein	Alcanivorax borkumensis SK2	hadeg
+Q11ZY2	Alkanes	Terminal/biterminal_oxidation	CYP450	Cytochrome P450	Polaromonas sp. JS666	hadeg
+Q14T91	Plastics	Nylon	nylB	Nylon hydrolase	Agromyces sp.	hadeg
+Q14T92	Plastics	Nylon	nylC	Nylon hydrolase	Agromyces sp.	hadeg
+Q14TA0	Plastics	Nylon	nylB	Nylon hydrolase	Agromyces sp.	hadeg
+Q1EPR4	Plastics	Nylon	nylC	Nylon hydrolase	Kocuria sp.	hadeg
+Q1EPR5	Plastics	Nylon	nylC	Nylon hydrolase	Agromyces sp.	hadeg
+Q2RSX6	Plastics	PHA/PHB	Rru_A1969	PHB depolymerase	Rhodospirillum rubrum	hadeg
+Q3EMN2	Plastics	PHA/PHB	RBTH_03267	PHB depolymerase	Bacillus thuringiensis	hadeg
+Q3L8N0	Plastics	NR	lcp	Latex-clearing protein	Streptomyces sp.	hadeg
+Q47RJ6	Plastics	PET	cut	Cutinase	Thermobifida fusca	hadeg
+Q47RJ7	Plastics	PET	cut	Cutinase	Thermobifida fusca	hadeg
+Q4KBS3	Plastics	PU	pueB	Polyurethanase B	Pseudomonas protegens	hadeg
+Q4KBS6	Plastics	PU	pueA	Polyurethanase A	Pseudomonas protegens	hadeg
+Q4W9V8	Plastics	PET	AFUA_4G03560	Cutinase	Thermobifida fusca	hadeg
+Q51718	Plastics	PHA/PHO	phaZ	PHA depolymerase	Pseudomonas fluorescens	hadeg
+Q51870	Plastics	PHA/PHB	phaZ4	PHB depolymerase	Paucimonas lemoignei	hadeg
+Q51871	Plastics	PHA/PHB	phaZ5	PHB depolymerase A	Paucimonas lemoignei	hadeg
+Q52155	Plastics	PHA/PHB	pDS-PS	PHB depolymerase	Ralstonia pickettii	hadeg
+Q53563	Alkanes	Terminal/biterminal_oxidation	mmoC	Methane monooxygenase component C	Methylosinus trichosporium	hadeg
+Q588Z1	Plastics	PVA	pvaA	Polyvinylalcohol dehydrogenase	Sphingopyxis sp.	hadeg
+Q588Z2	Plastics	O-PVA/PVA	oph	PVA hydrolase	Sphingomonas sp.	hadeg
+Q5YEW3	Plastics	PHA/PHB	phaZ	PHB depolymerase	Schlegelella sp.	hadeg
+Q5YVW2	Plastics	Nylon	NFA_28320	Polyamidase	Nocardia farcinica	hadeg
+Q607G3	Alkanes	Terminal/biterminal_oxidation	pmoA1	articulate methane monooxygenase beta subunit	Methylococcus capsulatus ATCC 33009	hadeg
+Q6A0I3	Plastics	PET	bta2	Hydrolase	Thermobifida fusca	hadeg
+Q6A0I4	Plastics	PET	cut2	Hydrolase	Thermobifida fusca	hadeg
+Q6B431	Alkanes	Terminal/biterminal_oxidation	alkB	NA	NA	hadeg
+Q6F7T9	Alkanes	Terminal/biterminal_oxidation	almA	Probable FAD-binding monooxygenase AlmA	Acinetobacter baylyi ATCC 33305	hadeg
+Q6H941	Alkanes	Terminal/biterminal_oxidation	alkB	alkane 1-monooxygenase	Pseudomonas aeruginosa ATCC 15692	hadeg
+Q6MH49	Plastics	PHA/PHB	phaZbd	MCL PHA depolymerase	Bdellovibrio bacteriovorus	hadeg
+Q6N9M9	Plastics	PBSA/PCL/PLA	RPA1511	Hydrolase	Rhodopseudomonas palustris	hadeg
+Q6RCE3	Alkanes	Terminal/biterminal_oxidation	CYP450	p450 monooxygenase	Alcanivorax borkumensis ATCC 700651	hadeg
+Q6RXW0	Alkanes	Terminal/biterminal_oxidation	chnE	6-oxohexanoate dehydrogenase	Rhodococcus sp.	hadeg
+Q6RXW1	Alkanes	Terminal/biterminal_oxidation	chnB	Cyclohexanone monooxygenase	Rhodococcus sp.	hadeg
+Q6RXW2	Alkanes	Terminal/biterminal_oxidation	chnC	Caprolactone hydrolase	Rhodococcus sp.	hadeg
+Q6RXW3	Alkanes	Terminal/biterminal_oxidation	chnD	6-hydroxyhexanoate dehydrogenase	Rhodococcus sp.	hadeg
+Q6TMA3	Alkanes	Terminal/biterminal_oxidation	chnA	Cyclohexanol dehydrogenase	Rhodococcus sp.	hadeg
+Q6UFW4	Plastics	PCL/PHA/PHBV/PHPV	phaZ	MCL PHA depolymerase	Pseudomonas alcaligenes	hadeg
+Q71KW6	Plastics	PHA/PHB	phaZ	PHB depolymerase	Azospirillum brasilense	hadeg
+Q768T2	Alkanes	Subterminal_oxidation	prmD	Propane 2-monooxygenase, effector component	Gordonia sp.	hadeg
+Q768T3	Alkanes	Subterminal_oxidation	prmC	Propane 2-monooxygenase, hydroxylase component small subunit	Gordonia sp.	hadeg
+Q768T4	Alkanes	Subterminal_oxidation	prmB	Propane 2-monooxygenase, reductase component	Gordonia sp.	hadeg
+Q768T5	Alkanes	Subterminal_oxidation	prmA	Propane 2-monooxygenase, hydroxylase component large subunit	Gordonia sp.	hadeg
+Q79F77	Plastics	Nylon	nylC	Hydrolase	Paenarthrobacter ureafaciens	hadeg
+Q7WXF6	Plastics	PHA/PHB	phaZ	PHA depolymerase	Cupriavidus necator	hadeg
+Q7X0P3	Plastics	NR	roxA	Rubber-oxygenase	Steroidobacter cummioxidans	hadeg
+Q83VD0	Plastics	PLA	plaA	PLA depolymerase	Paenibacillus amylolyticus	hadeg
+Q874E9	Plastics	PBS/PCL/PHA/PHB/PLA	CLE1	Cutinase	Cryptococcus sp.	hadeg
+Q88J44	Alkanes	Subterminal_oxidation	BVMO	Baeyer-Villiger monooxygenase	Pseudomonas putida ATCC 47054	hadeg
+Q8GRC2	Plastics	PHA/PHB	phaZ	PHB depolymerase	Marinobacter sp.	hadeg
+Q8KQE7	Alkanes	Terminal/biterminal_oxidation	bmoZ	Butane monooxygenase hydroxylase BMOH gamma subunit	Thauera butanivorans	hadeg
+Q8KQE9	Alkanes	Terminal/biterminal_oxidation	bmoY	Butane monooxygenase hydroxylase BMOH beta subunit	Thauera butanivorans	hadeg
+Q8KQF0	Alkanes	Terminal/biterminal_oxidation	bmoX	Butane monooxygenase hydroxylase BMOH alpha subunit	Thauera butanivorans	hadeg
+Q8RR62	Plastics	PBS	pbsA	PBS depolymerase	Acidovorax delafieldii	hadeg
+Q939Q9	Plastics	PHA/PHB	phaZ7	PHB depolymerase	Paucimonas lemoignei	hadeg
+Q93DM7	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane-1-monooxygenase	Rhodococcus sp.	hadeg
+Q93DN5	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane-1-monooxygenase	Rhodococcus sp.	hadeg
+Q93JS1	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane 1-monooxygenase	Rhodococcus erythropolis	hadeg
+Q93JS2	Alkanes	Terminal/biterminal_oxidation	alkB	Putative alkane-1-monooxygenase 3	Rhodococcus erythropolis	hadeg
+Q93TJ5	Alkanes	Subterminal_oxidation	BVMO	4-hydroxyacetophenone monooxygenase	Pseudomonas fluorescens	hadeg
+Q93UQ1	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane 1-monooxygenase	Alcanivorax borkumensis	hadeg
+Q96US9	Plastics	PCL	cut3	Cutinase	Fusarium verticillioides	hadeg
+Q96US9.1	Plastics	PCL	CUT3	Cutinase	Fusarium verticillioides	plasticdb
+Q96UT0	Plastics	PCL	cut2	Cutinase	Fusarium verticillioides	hadeg
+Q96UT0.1	Plastics	PCL	CUT2	Cutinase	Fusarium verticillioides	plasticdb
+Q99174	Plastics	PBS	cut	Cutinase	Fusarium solani subsp. cucurbitae	hadeg
+Q9AE68	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane 1-monooxygenase	Rhodococcus erythropolis	hadeg
+Q9AFD5	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane 1-monooxygenase	Nocardioides sp. CF8	hadeg
+Q9AHE8	Plastics	PU	amdA	Q9AHE8_RHIRD Enantioselective amidase	Rhizobium radiobacter	hadeg
+Q9HTK7	Alkanes	Terminal/biterminal_oxidation	rubA1	Rubredoxin-1	NA	hadeg
+Q9HTK8	Alkanes	Terminal/biterminal_oxidation	rubA2	Rubredoxin-2	NA	hadeg
+Q9HTK9	Alkanes	Terminal/biterminal_oxidation	alkT	Rubredoxin-NAD(+) reductase	NA	hadeg
+Q9HYG2	Alkanes	Auxiliar_alkane_gene	ssuD	Alkanesulfonate monooxygenase	Pseudomonas aeruginosa ATCC 15692	hadeg
+Q9I0R2	Alkanes	Terminal/biterminal_oxidation	alkB	alkane 1-monooxygenase	Pseudomonas aeruginosa ATCC 15692	hadeg
+Q9I3H5	Alkanes	Subterminal_oxidation	BVMO	Baeyer-Villiger monooxygenase	Pseudomonas aeruginosa ATCC 15692	hadeg
+Q9I6Z2	Alkanes	Finnerty_pathway	ahpF	Alkyl hydroperoxide reductase subunit F	Pseudomonas aeruginosa ATCC 15692	hadeg
+Q9KIF2	Plastics	PHA/PHB	fkbU	PHB depolymerase	Streptomyces ascomycinicus	hadeg
+Q9L4M7	Alkanes	Auxiliar_alkane_gene	alkS	HTH-type transcriptional regulator AlkS	Pseudomonas putida	hadeg
+Q9L4M8	Alkanes	Terminal/biterminal_oxidation	alkT	Rubredoxin-NAD(+) reductase	NA	hadeg
+Q9LAB9	Plastics	PU	pulA	Protease	Pseudomonas fluorescens	hadeg
+Q9LBN6	Plastics	PHA/PHB	phaZ	PHB depolymerase	Caldimonas manganoxidans	hadeg
+Q9LCQ7	Plastics	O-PVA/PVA	pvaB	Oxidized PVA hydrolase	Pseudomonas sp.	hadeg
+Q9R9H2	Plastics	PU	pueB	Polyurethanase	Pseudomonas chlororaphis	hadeg
+Q9R9U8	Alkanes	Hydrocarbon_uptake	alkN_mcp	methyl-accepting chemotaxis protein, 53.9 kD (plasmid)	Pseudomonas putida	hadeg
+Q9RHU4	Plastics	PCL	chi25	Chitinase	Streptomyces thermoviolaceus	hadeg
+Q9WWW2	Alkanes	Auxiliar_alkane_gene	alkJ_adh	Alcohol dehydrogenase	Pseudomonas putida	hadeg
+Q9WWW4	Alkanes	Terminal/biterminal_oxidation	alkG	Rubredoxin-1	NA	hadeg
+Q9WWW5	Alkanes	Terminal/biterminal_oxidation	alkF	Rubredoxin-2	NA	hadeg
+Q9WWW6	Alkanes	Terminal/biterminal_oxidation	alkB	lkane 1-monooxygenase	Pseudomonas putida	hadeg
+Q9WX47	Plastics	PU	pudA	PU-esterase	Comamonas acidovorans TB-35	hadeg
+Q9X3C0	Plastics	PU	pueA	Polyurethane esterase A	Pseudomonas chlororaphis	hadeg
+Q9XAU0	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane 1-monooxygenase	Rhodococcus erythropolis	hadeg
+Q9XAV1	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane 1-monooxygenase	Pseudomonas fluorescens	hadeg
+Q9XBM1	Alkanes	Terminal/biterminal_oxidation	alkB	Alkane 1-monooxygenase	Prauserella rugosa	hadeg
+Q9ZNH8	Plastics	PHA/PHB/PPL	phaZ	PHB depolymerase	Acidovorax sp. TP4	hadeg
+QDI72884	Plastics	PET	PETase	alpha/beta hydrolase	Streptomyces calvus	pazy
+QEX94755	Plastics	PET	sub1	cutinase family protein, partial	Streptomyces scabiei	pazy
+QPA27412	Plastics	PET	PD3	alpha/beta hydrolase	Brucella anthropi	pazy
+QZD35498	Plastics	NR	lcp1	latex clearing protein	Streptomyces sp. AC04842	pazy
+QZD35499	Plastics	NR	lcp2	latex clearing protein	Streptomyces sp. AC04842	pazy
+R4YKL9	Plastics	PCL/PET	lipA	PETase	Oleispira antarctica RB-8	hadeg
+RGD93181	Plastics	PET	HG-3	alpha/beta fold hydrolase	Clostridiales bacterium AM23-16LB	pazy
+RLI42440	Plastics	PET	PET46	MAG: alpha/beta hydrolase	Candidatus Bathyarchaeota archaeon	pazy
+RLI42440.1	Plastics	PET	hyd	Esterase	Candidatus bathyarchaeota	plasticdb
+RLT92980	Plastics	PET	enz_409	MAG: hypothetical protein D9N14_19170	Ketobacter sp.	pazy
+RLU00646	Plastics	PET	enz_403	MAG: alpha/beta hydrolase	Ketobacter sp.	pazy
+S6BC01	Plastics	PBS/PBSA/PCL	PaCLE1	Esterase	Pseudozyma antarctica	hadeg
+SAY37579	Plastics	PET	PHL-1	Hydrolase 1	compost metagenome	pazy
+SAY37582	Plastics	PET	PHL-2	Hydrolase 2	compost metagenome	pazy
+SAY37583	Plastics	PET	PHL-3	Hydrolase 3	compost metagenome	pazy
+SAY37584	Plastics	PET	PHL-4	Hydrolase 4	compost metagenome	pazy
+SAY37587	Plastics	PET	PHL-5	Hydrolase 5	compost metagenome	pazy
+SAY37589	Plastics	PET	PHL-6	Hydrolase 6	compost metagenome	pazy
+SHM40309	Plastics	PET	PETase	hypothetical protein SAMN05443668_101498	Cryptosporangium aurantiacum	pazy
+SJZ42839	Plastics	PET	PETase	Cutinase	Marinactinospora thermotolerans	plasticdb
+SUD16364	Plastics	PET	cut	Lipase 1	Aquipseudomonas alcaligenes	pazy
+T1W006	Plastics	PBSA/PCL/PLA	est	Esterase	Uncultured bacterium	hadeg
+T1W153	Plastics	PLA	est	Esterase	Uncultured bacterium	hadeg
+U5S003	Alkanes	Subterminal_oxidation	BVMO	Baeyer-Villiger monooxygenase 4	Dietzia sp.	hadeg
+UNZ22463	Plastics	PET	cut	cutinase	Rhodococcus sp.	pazy
+UNZ22463.1	Plastics	PCL/PET	cut	Cutinase	Rhodococcus sp.	plasticdb
+UNZ81746	Plastics	PET	IS10	alpha/beta hydrolase	Chloroflexi bacterium enrichment culture	pazy
+UNZ81747	Plastics	PET	IS11	beta-lactamase	Dehalococcoidia bacterium enrichment culture	pazy
+UNZ81748	Plastics	PET	IS12	alpha/beta hydrolase	Chloroflexi bacterium enrichment culture	pazy
+UOM43036.1	Plastics	PU/PBAT	foxred	Oxidoreductase	Bacillus velezensis	plasticdb
+UPI00001688FB	Plastics	PET	cut	PETase	NA	hadeg
+UPI000731EA1F	Plastics	PBAT	est	ALS54749	NA	hadeg
+UPI00078146B5	Plastics	PET	peth	PETase	NA	hadeg
+UPI000CEE1D89	Plastics	PET	peth	PETase	NA	hadeg
+UPI0021FA591C	Plastics	PET	peth	PETase	NA	hadeg
+UPI002203F04A	Plastics	PET	peth	PETase	NA	hadeg
+UPI0024CD5ADA	Plastics	PET	peth	PETase	NA	hadeg
+UUT36763	Plastics	PET/PBAT	PLE629	hypothetical protein	Marinobacter sp.	pazy
+UUT36763.1	Plastics	PET/PBSeT/PBAT/Ecovio-FT	hyd	PETase	Marinobacter sp.	plasticdb
+UUT36764	Plastics	PET/PBAT	PLE628	hypothetical protein	Marinobacter sp.	pazy
+UUT36764.1	Plastics	PET/PBSeT/PBAT/Ecovio-FT	hyd	PETase	Marinobacter sp.	plasticdb
+UVG67878.1	Plastics	PE	lacc	Laccase	Psychrobacter sp.	plasticdb
+V5YT97	Plastics	PHA/PHB	phaZc	3HB oligomer hydrolase	Paracoccus denitrificans	hadeg
+V5YU56	Plastics	P3HV/PHA/PHBV	hbd	3HV dehydrogenase	Paracoccus denitrificans	hadeg
+W0M2H4	Plastics	PLA	est	Esterase	Uncultured bacterium	hadeg
+W0TJ64	Plastics	PBAT/PBS/PBSA/PCL/PET/PHA/PHB/PLA	cut190	Cutinase	Saccharomonospora viridis	hadeg
+W6R2Y2	Plastics	PET	est	PBAT Arylesterase	Pseudomonas pseudoalcaligenes	hadeg
+WAT79796	Plastics	PLA	TGL	triacylglycerol lipase	Bacillus safensis	pazy
+WAU86704	Plastics	PET	PET40	PET40, partial	synthetic construct	pazy
+WBR49956	Plastics	PUR/PA	UMG-SP-1	urethanase, partial	uncultured bacterium	pazy
+WBR49957	Plastics	PUR/PA	UMG-SP-2	urethanase, partial	uncultured bacterium	pazy
+WBR49958	Plastics	PUR/PA	UMG-SP-3	urethanase, partial	uncultured bacterium	pazy
+WID88783	Plastics	PET	dkca1	carboxylesterase	Dietzia kunjamensis	pazy
+WOR09923	Plastics	PET	SIBER-1	alpha/beta hydrolase, partial	synthetic construct	pazy
+WP_011061486.1	Plastics	PU	pueA	Polyurethanase A	Pseudomonas protegens	plasticdb
+WP_011061489.1	Plastics	PU	pueB	Polyurethanase B	Pseudomonas protegens	plasticdb
+WP_011209364.1	Plastics	Nylon	gatA	Polyamidase	Nocardia farcinica	plasticdb
+WP_012699077.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Azotobacter vinelandii	plasticdb
+WP_013858543	Plastics	PET	HG-4	Alpha/beta hydrolase	Heyndrickxia	pazy
+WP_015255658.1	Plastics	PBAT	ces	Carboxylesterase	Thermobacillus composti	plasticdb
+WP_034767800	Plastics	PET	ces19_14	Alpha/beta hydrolase	Bacillaceae	pazy
+WP_039353427	Plastics	PET	PET30	type A sorting domain-containing protein	Kaistella jeonii	pazy
+WP_039353427.1	Plastics	PET/PU/PCL	OA86_11720	Esterase	Kaistella jeonii	plasticdb
+WP_041846030	Plastics	PET	est11_32	Prolyl oligopeptidase family serine peptidase	Bacillaceae	pazy
+WP_041847557	Plastics	PET	est18_23	carboxylesterase/lipase family protein	Caldibacillus thermoamylovorans	pazy
+WP_052671284.1	Plastics	PU	est	NA	NA	hadeg
+WP_062195544	Plastics	PET	ctPL	alpha/beta hydrolase family protein	Caldimonas taiwanensis	pazy
+WP_068749367	Plastics	PA	tvgC	family peptidase	Thermovenabulum gondwanense	pazy
+WP_073216622.1	Plastics	PU/PCL	PETase	Esterase	Aequorivita viscosa	plasticdb
+WP_078759821	Plastics	PET	cut	Alpha/beta hydrolase	Marinactinospora thermotolerans	pazy
+WP_085690612	Plastics	PET	estB	Alpha/beta hydrolase	Pseudomonas	pazy
+WP_085690612.1	Plastics	PET	est	Esterase	Pseudomonas sp.	hadeg
+WP_085749238	Plastics	PET	cut2	poly(ethylene terephthalate) hydrolase family protein	Piscinibacter gummiphilus	pazy
+WP_088276085.1	Plastics	PET/PU	B7O88_11480	Polyester hydrolase	Pseudomonas aestusnigri	plasticdb
+WP_089972404.1	Plastics	PHB/PHA/PHBH/PHBVH/PLA/PCL	phaZ	PHB depolymerase	Lihuaxuella thermophila	plasticdb
+WP_090538641	Plastics	PET/PUR	PE-H	alpha/beta hydrolase family protein	Halopseudomonas formosensis	pazy
+WP_090538641.1	Plastics	Impranil	hyd	Hydrolase	Halopseudomonas formosensis	plasticdb
+WP_093412886	Plastics	PET	enz_611	poly(ethylene terephthalate) hydrolase family protein	Saccharopolyspora flava	pazy
+WP_101893509	Plastics	PET	enz_412	dienelactone hydrolase family protein	Ketobacter alkanivorans	pazy
+WP_104613137	Plastics	PET	enz_701	cutinase/poly(ethylene terephthalate) hydrolase	Thermobifida fusca	pazy
+WP_107095481	Plastics	PET	enz_607	bis(hydroxyethyl) terephthalate hydrolase	Actinobacteria bacterium OV320	pazy
+WP_108898647	Plastics	PET	ces39_5	MULTISPECIES: alpha/beta hydrolase	Bacillaceae	pazy
+WP_111881932	Plastics	PET	PET27	type A sorting domain-containing protein	Aequorivita sp. CIP111184	pazy
+WP_111881932.1	Plastics	PCL/PET/PU	est	Esterase	Aequorivita sp.	hadeg
+WP_118011433	Plastics	PET	HG-2	alpha/beta hydrolase	Holdemanella biformis	pazy
+WP_132256575.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Paucimonas lemoignei	plasticdb
+WP_132257894.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Paucimonas lemoignei	plasticdb
+WP_132258119.1	Plastics	PHB/PHA	phaZ	PHB depolymerase	Paucimonas lemoignei	plasticdb
+WP_185053500	Plastics	PA	ttA	amidase	Thermocatellispora tengchongensis	pazy
+WP_220815207	Plastics	PET	PETase	alpha/beta hydrolase family protein	Pseudomonas paralcaligenes	pazy
+X0BTD8	Plastics	PET	cut	Cutinase	Fusarium oxysporum f. sp. raphani 54005	hadeg
+XAQ58225	Plastics	PUR/PBAT	cut1	cutinase	Blastobotrys sp. G-9	pazy
+XCO66867	Plastics	PUR	purH	PurH	Aeromicrobium sp.	pazy
+XDS72785	Plastics	PET	sis	thermophilic PET hydrolase	uncultured bacterium	pazy
+XHH12374	Plastics	PA	nylC1	NylC1	Leucobacter chromiiresistens	pazy
+XHH12375	Plastics	PA	nylC2	NylC2	uncultured Microbacterium sp.	pazy
+XHH12378	Plastics	PA	nylC5	NylC5	Gordonia sp.	pazy
+RhRMS_1_2526	Alkanes	Terminal/biterminal_oxidation	ladA	Long-chain alkane monooxygenase	Rhodococcus sp002259485	in-house    
+MAB42154.1	Plastics	PET	hyd	alpha/beta hydrolase	Pseudomonadales bacterium	publication

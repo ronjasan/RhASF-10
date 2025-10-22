@@ -1,0 +1,23 @@
+Bin_Id,Marker_lineage,Num_genomes,Num_markers,Num_marker_sets,0,1,2,3,4,5plus,Completeness,Contamination,Strain_heterogeneity
+Rhodococcus_sp_ASF-10,o__Actinomycetales (UID1815),120,574,266,1,568,4,1,0,0,99.94,1.38,14.29
+Rhodococcus_wratislaviensis_NBRC100605_GCA_000583735.1,o__Actinomycetales (UID1815),120,566,265,1,552,12,1,0,0,99.94,2.80,20.00
+Rhodococcus_qingshengii_TG-1_GCA_019048925.1,o__Actinomycetales (UID1815),120,572,265,1,570,0,1,0,0,99.94,0.75,0.00
+Rhodococcus_qingshengii_RL1_GCA_008306195.1,o__Actinomycetales (UID1815),120,572,265,1,570,1,0,0,0,99.94,0.19,0.00
+Rhodococcus_qingshengii_JCM15477_GCA_001646745.1,o__Actinomycetales (UID1815),120,572,265,1,570,1,0,0,0,99.94,0.19,0.00
+Rhodococcus_qingshengii_CL-05_GCA_017910955.1,o__Actinomycetales (UID1815),120,572,265,1,571,0,0,0,0,99.94,0.00,0.00
+Rhodococcus_qingshengii_A34_GCA_031733215.1,o__Actinomycetales (UID1815),120,572,265,1,567,4,0,0,0,99.94,0.36,0.00
+Rhodococcus_qingshengii_7B_GCA_015034605.1,o__Actinomycetales (UID1815),120,572,265,1,570,1,0,0,0,99.94,0.38,0.00
+Rhodococcus_globerulus_NBRC14531_GCA_001894805.1,o__Actinomycetales (UID1815),120,571,265,1,566,3,1,0,0,99.94,1.17,16.67
+Rhodococcus_erythropolis_R138_GCA_000696675.2,o__Actinomycetales (UID1815),120,572,265,1,568,3,0,0,0,99.94,0.69,0.00
+Rhodococcus_sp_C-2_GCA_027854095.1,o__Actinomycetales (UID1815),120,572,265,2,570,0,0,0,0,99.84,0.00,0.00
+Rhodococcus_opacus_R7_GCA_000736435.1,o__Actinomycetales (UID1815),120,566,265,2,554,8,2,0,0,99.81,2.02,7.14
+Rhodococcus_opacus_DSM_43205_GCA_910591545.1,o__Actinomycetales (UID1815),120,566,265,2,548,14,2,0,0,99.75,2.48,20.00
+Rhodococcus_maanshanensis_DSM_44675_GCA_900109405.1,o__Actinomycetales (UID1815),120,574,266,3,569,2,0,0,0,99.69,0.42,0.00
+Rhodococcus_koreensis_DSM_44498_GCA_900105905.1,o__Actinomycetales (UID1815),120,566,265,4,543,18,1,0,0,99.51,4.06,33.33
+Rhodococcus_ruber_C1_GCA_016804345.1,o__Actinomycetales (UID1815),120,573,265,3,569,1,0,0,0,99.37,0.38,0.00
+Corynebacterium_antarcticum_CCM_8835_GCA_016595285.2,o__Actinomycetales (UID1809),267,400,222,2,396,2,0,0,0,99.32,0.56,50.00
+Rhodococcus_jostii_DSM_44719_GCA_900105375.1,o__Actinomycetales (UID1815),120,566,265,5,548,10,3,0,0,99.32,2.26,31.58
+Rhodococcus_spelaei_C9-5_GCA_006704125.1,o__Actinomycetales (UID1815),120,574,266,4,568,2,0,0,0,99.31,0.56,0.00
+Rhodococcus_xishaensis_LHW51113_GCA_004011825.1,o__Actinomycetales (UID1815),120,574,266,4,569,1,0,0,0,98.93,0.06,0.00
+Rhodococcus_qingshengii_BF1_GCA_019279115.1,o__Actinomycetales (UID1815),120,572,265,11,553,7,1,0,0,97.86,1.89,10.00
+Rhodococcoides_trifolii_CCM_7905_GCA_014635345.1,o__Actinomycetales (UID1815),120,574,266,10,557,7,0,0,0,97.62,1.50,0.00
