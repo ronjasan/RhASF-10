@@ -90,7 +90,7 @@ KEGG <- read_tsv("data/KEGG_pathways.tsv") %>%
 source("impute_normal.R")
 
 intensity <- read_tsv("data/RhASF-10_combined_protein.tsv") %>%
-    select(Protein, matches("^(Succinate|PELW)_[1-3] Intensity$")) %>%
+    select(Protein, matches("^(Succinate|LMWPE)_[1-3] Intensity$")) %>%
     pivot_longer(cols = -c(Protein), names_to = "Sample", values_to = "Intensity") %>%
     mutate(Sample = str_remove(Sample, " Intensity")) %>%
     mutate(Intensity = log2(Intensity)) %>%
@@ -98,7 +98,7 @@ intensity <- read_tsv("data/RhASF-10_combined_protein.tsv") %>%
     pivot_wider(names_from = Sample, values_from = Intensity) %>%
     filter(
         rowSums(is.na(select(., matches("^Succinate_[1-3]$")))) <= 1 &
-            rowSums(is.na(select(., matches("^PELW_[1-3]$")))) <= 1
+            rowSums(is.na(select(., matches("^LMWPE_[1-3]$")))) <= 1
     ) %>%
     mutate(across(where(is.numeric), ~ impute_normal(.))) %>%
     mutate(across(where(is.numeric), ~ as.numeric(.))) %>%
@@ -108,8 +108,8 @@ intensity <- read_tsv("data/RhASF-10_combined_protein.tsv") %>%
 diff <- intensity %>%
     mutate(
         succ_mean = rowMeans(select(., matches("^Succinate_[1-3]$")), na.rm = TRUE),
-        pelw_mean = rowMeans(select(., matches("^PELW_[1-3]$")), na.rm = TRUE),
-        diff = pelw_mean - succ_mean
+        LMWPE_mean = rowMeans(select(., matches("^LMWPE_[1-3]$")), na.rm = TRUE),
+        diff = LMWPE_mean - succ_mean
     )
 
 ttest <- intensity %>%
@@ -117,7 +117,7 @@ ttest <- intensity %>%
     mutate(
         condition = case_when(
             str_detect(Sample, "Succinate") ~ "Succinate",
-            str_detect(Sample, "PELW") ~ "PELW",
+            str_detect(Sample, "LMWPE") ~ "LMWPE",
             TRUE ~ NA_character_
         ),
         replicate = str_extract(Sample, "[1-3]$")
@@ -156,7 +156,7 @@ volcano_plot <- volcano %>%
     geom_hline(yintercept = 1.3, col = "darkgray", linetype = "dashed") +
     scale_color_manual(values = c("Upregulated" = "#ff7f00", "Downregulated" = "#7D3200", "Not significant" = "grey")) +
     geom_label_repel(aes(label = protein, fontface = "bold", segment.color = "black"), box.padding = 1, max.overlaps = Inf, min.segment.length = 0.1, size = 3.5, na.rm = TRUE) +
-    labs(x = "log2(PELW/Succinate)", y = "-log10(p-value)") +
+    labs(x = "log2(LMWPE/Succinate)", y = "-log10(p-value)") +
     theme_classic() +
     theme(
         panel.border = element_blank(),
